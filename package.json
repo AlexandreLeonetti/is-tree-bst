@@ -1,0 +1,24 @@
+{
+  "name": "leonetti-is-tree-bst",
+  "version": "0.0.1",
+  "description": "is tree a bst",
+  "repository": "alexandreleonetti/is-tree-bst",
+  "type": "module",
+  "exports": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "type",
+    "types"
+  ],
+  "author": {
+    "name": "Alex Leonetti",
+    "url": "https://github.com/AlexandreLeonetti"
+  },
+  "license": "ISC"
+}
